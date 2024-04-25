@@ -5,3 +5,17 @@
 </h1>
 
 <h3 align="center">Student and Programmer From India</h3>
+
+<br>
+
+<div align="center">
+ 
+ 🔭 I’m Currently Working On **A Walmart Clone**
+ 
+ 🌱 I’m Currently LEarning **Next.js, TailwindCSS, Microsoft Azure**
+
+💬 Ask Me About **Node.js, React, Firebase... or anything [here](https://github.com/atharv.bakale/atharv.bakaleissues)**
+
+⚡ Fun Fact **By Order Of The Peaky Blinders**
+
+ </div>
