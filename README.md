@@ -24,4 +24,7 @@
   <a href="mailto:bakaleatharv13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+    <a href="https://instagram.com/atharv.bakale">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
 </div>
