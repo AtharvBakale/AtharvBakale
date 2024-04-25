@@ -19,3 +19,9 @@
 ⚡ Fun Fact **By Order Of The Peaky Blinders**
 
  </div>
+
+<div align="center"> 
+  <a href="mailto:bakaleatharv13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
