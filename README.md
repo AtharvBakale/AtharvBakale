@@ -14,7 +14,7 @@
  
  🌱 I’m Currently LEarning **Next.js, TailwindCSS, Microsoft Azure**
 
-💬 Ask Me About **Node.js, React, Firebase... or anything [here](https://github.com/atharv.bakale/atharv.bakaleissues)**
+💬 Ask Me About **Node.js, React, Firebase... Or Anything [here](https://github.com/atharv.bakale/atharv.bakaleissues)**
 
 ⚡ Fun Fact **By Order Of The Peaky Blinders**
 
