@@ -12,7 +12,7 @@
  
  🔭 I’m Currently Working On **A Walmart Clone**
  
- 🌱 I’m Currently LEarning **Next.js, TailwindCSS, Microsoft Azure**
+ 🌱 I’m Currently Learning **Next.js, TailwindCSS, Microsoft Azure**
 
 💬 Ask Me About **Node.js, React, Firebase... Or Anything [here](https://github.com/AtharvBakale/AtharvBakale/issues)**
 
@@ -24,7 +24,10 @@
   <a href="mailto:bakaleatharv13@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    <a href="https://instagram.com/atharv.bakale">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
+  <a href="https://instagram.com/atharv.bakale">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31uymw5igautlfkxztdgdraxo2ki?si=431248a3fafa46e3">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
 </div>
