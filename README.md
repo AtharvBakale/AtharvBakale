@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m Currently Working On **A Walmart Clone**
+ 🔭 I’m Currently Working On **A LinkedIn Clone**
  
  🌱 I’m Currently Learning **Next.js, TailwindCSS, Microsoft Azure**
 
